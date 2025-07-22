@@ -12,7 +12,9 @@ This project demonstrates how to control the built-in LED on the *ESP32* using a
 - [Usage](#usage)
 - [Notes](#notes)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
+- [Project Results](#Project-Results)
+- [Code Explanation](#Code-Explanation)
+- [Author](#Author)
 
 ---
 
