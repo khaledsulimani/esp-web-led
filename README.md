@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/ea90deeb-d0d1-4539-a34d-5640dc0de959
 ## *Code Explanation* 📝💻
 
 ### *led define and web server*:
-The code is designed to controll led and lunch webserver*.
+*The code is designed to controll led and lunch webserver*.
 
 ```cpp
 /*
@@ -189,7 +189,7 @@ void loop() {
 }
 ```
 ### *html code*:
-The code is html code so we can use the buttons and chainge led status*.
+*The code is html code so we can use the buttons and chainge led status*.
 
 ```cpp
 // محتويات ملف index.h
